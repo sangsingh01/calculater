@@ -35,6 +35,3 @@ cd calculator
 Open index.html in your browser
 
 
-Copy everything above, paste it into a new file called README.md in VS Code, save it, then run:
-git add .
-git commit -m "add README"
